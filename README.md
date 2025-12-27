@@ -144,14 +144,14 @@ status: 💼 Deployed
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7A3&icon_color=00F7A3&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00F7A3&ring=00F7A3&fire=FF6B6B&currStreakLabel=00F7A3" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rishishpradhan16&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7A3&icon_color=00F7A3&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishishpradhan16&theme=radical&hide_border=true&background=0D1117&stroke=00F7A3&ring=00F7A3&fire=FF6B6B&currStreakLabel=00F7A3" width="48%" />
 
 </div>
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7A3&text_color=FFFFFF&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishishpradhan16&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7A3&text_color=FFFFFF&layout=compact)
 
 </div>
 
@@ -209,7 +209,7 @@ next_unlocks:
 
 <div align="center">
 
-[![Rishi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F7A3&line=00F7A3&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rishi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rishishpradhan16&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F7A3&line=00F7A3&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -219,7 +219,7 @@ next_unlocks:
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+![](https://github-profile-trophy.vercel.app/?username=rishishpradhan16&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
 
 </div>
 
@@ -235,10 +235,8 @@ $ ./connect_with_rishi.sh
 
 **If you're building something meaningful — let's talk.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F7A3?style=for-the-badge&logo=google-chrome&logoColor=black)](YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishish-pradhan/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pradhanrishish@gmail.com)
 
 </div>
 
@@ -252,7 +250,7 @@ $ ./connect_with_rishi.sh
 ⭐ Star my repos if you find them useful | 🍴 Fork & improve | 💬 Open to collaborate
 ```
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00F7A3&style=for-the-badge&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=rishishpradhan16&color=00F7A3&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 

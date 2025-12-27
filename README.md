@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/rishishpradhan16/rishishpradhan16/master/gifs/Hi.gif" width="30"> Hey, I'm Rishi
+# <img src="https://raw.githubusercontent.com/rishishpradhan16/rishishpradhan16/master/gifs/Hi.gif" width="30"> Hey, I'm Rishish Pradhan
 
 ```ascii
 ╔══════════════════════════════════════════════════════════════════════════════╗

@@ -86,9 +86,17 @@ class Rishi:
 
 ## 🚀 **PROJECTS.log**
 
-<table>
-<tr>
-<td width="50%">
+### 🌐 **Kahaaniverse.com**
+```yaml
+type: Full-Stack Website
+stack: [Design, Dev, Testing, Analytics]
+impact: "Live production site with Google Analytics"
+status: 🌍 LIVE
+link: kahaaniverse.com
+```
+**Solo end-to-end execution:** Product design → Development → Testing → Bug fixes → Deployment. Currently building companion mobile app with AdMob integration.
+
+---
 
 ### 🎯 **Automation Frameworks**
 ```yaml
@@ -99,31 +107,19 @@ status: ✅ Production
 ```
 **Built end-to-end test automation pipelines** that actually work at scale.
 
-</td>
-<td width="50%">
+---
 
-
-### 🌐 **Kahaaniverse.com**
+### 📺 **Content Platforms**
 ```yaml
-type: Full-Stack Website
-stack: [Design, Dev, Testing, Analytics]
-impact: "Live production site with Google Analytics"
-status: 🌍 LIVE
-link: kahaaniverse.com
+type: Fact-Based Content Systems
+platforms: [YouTube 8K+, YouTube 4.5K+, Instagram 8K+]
+impact: "Grew 20K+ engaged audience across platforms"
+status: ✅ Live & Growing
 ```
-**Solo end-to-end:** Product design → Development → Testing → Bug fixes → Deployment. Currently building companion mobile app with AdMob integration.
+**Built and scaled** multiple content channels while sharing knowledge and building in public.
 
-</td>
-<td width="50%">
+---
 
-### 📱 **Android Apps**
-yaml
-type: Mobile Development
-stack: [Android, Gradle, AdMob]
-impact: "Published & monetized apps"
-status: 🚀 Live
-**Shipped real products** from idea to Play Store to revenue. </td> </tr> <tr> <td width="50%">
-  
 ### ⚙️ **Internal Tools**
 ```yaml
 type: Growth Systems
@@ -133,11 +129,8 @@ status: 💼 Deployed
 ```
 **Custom solutions** that teams actually use every day.
 
-</td>
-</tr>
-</table>
-
 ---
+
 
 ## 📊 **STATS.db**
 

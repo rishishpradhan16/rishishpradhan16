@@ -102,16 +102,18 @@ status: ✅ Production
 </td>
 <td width="50%">
 
-### 📱 **Mindset & Journey**
+### 📱 **🎥 Creator Ecosystem — Multi-Platform Audience Project**
 ```yaml
-mindset: "Show the work — not the hype"
-journey:
-  - built from scratch
-  - learned by failing forward
-  - improved through discipline & data
-belief: "Consistency compounds."
+type: Fact-Based Content Systems
+platforms:
+  - YouTube (8K+ subs)
+  - YouTube — Secondary (4.5K+ subs)
+  - Instagram (8K+ followers)
+focus: "Consistent fact-based content with high engagement"
+approach: "Experiment → analyze metrics → iterate → scale"
+outcome: "Built a growing and engaged audience across platforms"
 ```
-**Shipped real products** from idea to Play Store to revenue.
+**Turned content experiments into an 8K+ audience across YouTube & Instagram.
 
 </td>
 </tr>

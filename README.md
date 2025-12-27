@@ -102,20 +102,6 @@ status: ✅ Production
 </td>
 <td width="50%">
 
-### 📱🎥 Creator Ecosystem
-```yaml
-type: Fact-Based Content Systems
-platforms: [YouTube 8K+, YouTube 4.5K+, Instagram 8K+]
-impact: "Grew engaged audience across platforms"
-status: ✅ Live
-```
-**8K+ audience on YouTube & Instagram via fact-based content experiments.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
 
 ### 🌐 **Kahaaniverse.com**
 ```yaml

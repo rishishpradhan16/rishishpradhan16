@@ -115,6 +115,14 @@ link: kahaaniverse.com
 
 </td>
 <td width="50%">
+
+### 📱 **Android Apps**
+yaml
+type: Mobile Development
+stack: [Android, Gradle, AdMob]
+impact: "Published & monetized apps"
+status: 🚀 Live
+**Shipped real products** from idea to Play Store to revenue. </td> </tr> <tr> <td width="50%">
   
 ### ⚙️ **Internal Tools**
 ```yaml

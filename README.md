@@ -16,7 +16,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7A3&center=true&vCenter=true&random=false&width=800&lines=Automation+Engineer+%7C+Solo+Builder+%7C+AI+Enthusiast;If+it+matters%2C+I'll+build+it%2C+automate+it%2C+power+it+with+AI;Learn+fast.+Break+things.+Ship+solutions.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7A3&center=true&vCenter=true&random=false&width=800&lines=Automation+Engineer+%7C+Solo+Builder+%7C+AI+Enthusiast;Learn+fast.+Break+things.+Ship+solutions.)](https://git.io/typing-svg)
 
 </div>
 

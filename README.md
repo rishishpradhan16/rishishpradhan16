@@ -60,17 +60,21 @@ class Rishi:
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### **DevOps & CI/CD**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### **AI & Productivity**
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-FF3E6C?style=for-the-badge&logo=heart&logoColor=white)
 
 </div>
 
@@ -113,18 +117,19 @@ status: 🚀 Live
 <tr>
 <td width="50%">
 
-### 🤖 **AI Workflows**
+### 🌐 **Kahaaniverse.com**
 ```yaml
-type: Productivity Systems
-stack: [AI Tools, Prompts, Automation]
-impact: "10x output with AI leverage"
-status: 🔄 Iterating
+type: Full-Stack Website
+stack: [Design, Dev, Testing, Analytics]
+impact: "Live production site with Google Analytics"
+status: 🌍 LIVE
+link: kahaaniverse.com
 ```
-**AI-powered content engines** & workflow automation that scale.
+**Solo end-to-end:** Product design → Development → Testing → Bug fixes → Deployment. Currently building companion mobile app with AdMob integration.
 
 </td>
 <td width="50%">
-
+  
 ### ⚙️ **Internal Tools**
 ```yaml
 type: Growth Systems
@@ -198,9 +203,11 @@ active_missions:
   - 🎯 Experimenting: Growth & content systems
   
 next_unlocks:
-  - Cloud infrastructure automation
-  - ML model deployment pipelines
-  - Advanced prompt engineering workflows
+  - Personal productivity systems powered by AI tools
+  - Digital product systems for online platforms
+  - Build multiple real-world apps and ship them to Play Store
+  - Use AI to spot upcoming trends & convert insights into products
+
 ```
 
 ---
@@ -217,11 +224,48 @@ next_unlocks:
 
 ## 🏆 **ACHIEVEMENTS.unlock**
 
+## 🏆 **ACHIEVEMENTS.unlock**
+
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=rishishpradhan16&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
 
 </div>
+
+### **🎯 Career Milestones**
+
+```yaml
+security_testing:
+  achievement: "Implemented critical security testing framework using AI"
+  impact: "Solo execution, organization-wide deployment"
+  tech: [AI-powered tools, Automation]
+  
+container_orchestration:
+  achievement: "First in team to deploy Docker + Kubernetes"
+  method: "Self-learned and implemented using AI assistance"
+  status: "Production-ready infrastructure"
+  
+content_creator:
+  youtube: 
+    - "Channel 1: 8,000+ subscribers"
+    - "Channel 2: 4,500+ subscribers"
+  instagram: "8,000+ followers"
+  impact: "Building in public, sharing knowledge"
+  
+full_stack_solo:
+  project: "kahaaniverse.com"
+  scope: "Product design → Development → Testing → Deployment"
+  current: "Building mobile app with AdMob monetization"
+  analytics: "Integrated Google Analytics for insights"
+```
+
+### **💡 What Sets Me Apart**
+
+- 🔐 **Security Pioneer**: Solo implementation of AI-powered security testing in enterprise
+- 🐳 **DevOps Trailblazer**: First team member to deploy containerized infrastructure
+- 📱 **Full-Stack Creator**: Design to deployment, all by myself
+- 📊 **Content Builder**: 20K+ combined audience across platforms
+- 🤖 **AI Leverage**: Using AI to 10x output and solve complex problems
 
 ---
 

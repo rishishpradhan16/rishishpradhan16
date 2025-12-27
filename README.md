@@ -105,13 +105,9 @@ status: ✅ Production
 ### 📱🎥 Creator Ecosystem
 ```yaml
 type: Fact-Based Content Systems
-platforms:
-  - YouTube (8K+ subs)
-  - YouTube — Secondary (4.5K+ subs)
-  - Instagram (8K+ followers)
-focus: "Consistent fact-based content with high engagement"
-approach: "Experiment → analyze metrics → iterate → scale"
-outcome: "Built a growing and engaged audience across platforms"
+platforms: [YouTube 8K+, YouTube 4.5K+, Instagram 8K+]
+impact: "Grew engaged audience across platforms"
+status: ✅ Live
 ```
 **8K+ audience on YouTube & Instagram via fact-based content experiments.
 

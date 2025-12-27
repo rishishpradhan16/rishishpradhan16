@@ -102,12 +102,14 @@ status: ✅ Production
 </td>
 <td width="50%">
 
-### 📱 **Android Apps**
+### 📱 **Mindset & Journey**
 ```yaml
-type: Mobile Development
-stack: [Android, Gradle, AdMob]
-impact: "Published & monetized apps"
-status: 🚀 Live
+mindset: "Show the work — not the hype"
+journey:
+  - built from scratch
+  - learned by failing forward
+  - improved through discipline & data
+belief: "Consistency compounds."
 ```
 **Shipped real products** from idea to Play Store to revenue.
 
@@ -222,7 +224,6 @@ next_unlocks:
 
 ---
 
-## 🏆 **ACHIEVEMENTS.unlock**
 
 ## 🏆 **ACHIEVEMENTS.unlock**
 

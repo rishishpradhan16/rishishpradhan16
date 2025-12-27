@@ -102,7 +102,7 @@ status: ✅ Production
 </td>
 <td width="50%">
 
-### 📱 **🎥 Creator Ecosystem — Multi-Platform Audience Project**
+### 📱🎥 Creator Ecosystem
 ```yaml
 type: Fact-Based Content Systems
 platforms:
@@ -113,7 +113,7 @@ focus: "Consistent fact-based content with high engagement"
 approach: "Experiment → analyze metrics → iterate → scale"
 outcome: "Built a growing and engaged audience across platforms"
 ```
-**Turned content experiments into an 8K+ audience across YouTube & Instagram.
+**8K+ audience on YouTube & Instagram via fact-based content experiments.
 
 </td>
 </tr>

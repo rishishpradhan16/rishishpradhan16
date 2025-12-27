@@ -121,7 +121,7 @@ status: ✅ Production
 ### 📺 **Content Platforms**
 ```yaml
 type: Fact-Based Content Systems
-platforms: [YouTube 8K+, YouTube 4.5K+, Instagram 8K+]
+platforms: [YouTube 8K+, YouTube 4.5K+, Insta 8K+]
 impact: "Grew 20K+ engaged audience across platforms"
 status: ✅ Live & Growing
 ```

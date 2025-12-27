@@ -84,7 +84,11 @@ class Rishi:
 
 ---
 
-## 🚀 **PROJECTS.log**
+# 🚀 **PROJECTS.log**
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🌐 **Kahaaniverse.com**
 ```yaml
@@ -96,7 +100,8 @@ link: kahaaniverse.com
 ```
 **Solo end-to-end execution:** Product design → Development → Testing → Bug fixes → Deployment. Currently building companion mobile app with AdMob integration.
 
----
+</td>
+<td width="50%">
 
 ### 🎯 **Automation Frameworks**
 ```yaml
@@ -107,7 +112,11 @@ status: ✅ Production
 ```
 **Built end-to-end test automation pipelines** that actually work at scale.
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 📺 **Content Platforms**
 ```yaml
@@ -118,7 +127,8 @@ status: ✅ Live & Growing
 ```
 **Built and scaled** multiple content channels while sharing knowledge and building in public.
 
----
+</td>
+<td width="50%">
 
 ### ⚙️ **Internal Tools**
 ```yaml
@@ -129,8 +139,11 @@ status: 💼 Deployed
 ```
 **Custom solutions** that teams actually use every day.
 
----
+</td>
+</tr>
+</table>
 
+---
 
 ## 📊 **STATS.db**
 
